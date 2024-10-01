@@ -90,3 +90,4 @@ no [twitter](https://x.com/Marcus_filipus) ou no
 
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web)
 - [W3Schools](https://www.w3schools.com/)
+- [Fullstack Guild](https://www.youtube.com/watch?v=PcXXRqW56-A&t=2s)
