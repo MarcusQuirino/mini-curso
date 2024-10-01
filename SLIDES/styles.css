@@ -1,0 +1,53 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    font-size: 18px; /* Aumentado o tamanho base da fonte */
+}
+.slide {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    transition: transform 0.5s ease;
+}
+.slide-content {
+    max-width: 900px; /* Aumentado para acomodar texto maior */
+}
+h1 {
+    color: #333;
+    font-size: 3em; /* Aumentado */
+}
+h2 {
+    color: #444;
+    font-size: 2.5em; /* Aumentado */
+}
+p, ul {
+    font-size: 1.2em; /* Aumentado */
+}
+.highlight {
+    background-color: #ffe0b2;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 1.1em; /* Aumentado */
+}
+.navigation {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 100;
+}
+button {
+    margin: 0 10px;
+    padding: 15px 25px; /* Aumentado */
+    font-size: 1.2em; /* Aumentado */
+}
