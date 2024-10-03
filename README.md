@@ -83,7 +83,8 @@ eu tive e que podem te ajudar a entender algumas coisas de uma forma mais simple
 ## Contato
 
 Eu adoro falar sobre tecnologia, empreendedorismo ou o que seja. Pode me chamar pra qualquer coisa
-no [twitter](https://x.com/Marcus_filipus) ou no
+no [twitter](https://x.com/Marcus_filipus), instagram
+[instagram](https://www.instagram.com/Marcus_filipus/) ou
 [linkedin](https://www.linkedin.com/in/marcus-quirino-dev/)
 
 ## Referências
